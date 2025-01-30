@@ -29,13 +29,13 @@ class FreeEnergyLandscape:
         self.colors = [
             (0.0, "darkblue"),
             (0.1, "blue"),
-            (0.2, "dodgerblue"),
-            (0.3, "deepskyblue"),
-            (0.4, "lightblue"),
-            (0.5, "azure"),
-            (0.6, "oldlace"),
-            (0.7, "wheat"),
-            (0.8, "lightcoral"),
+            (0.2, "deepskyblue"),
+            (0.3, "green"),
+            (0.4, "lightgreen"),
+            (0.5, "yellow"),
+            (0.6, "gold"),
+            (0.7, "coral"),
+            (0.8, "orangered"),
             (0.9, "indianred"),
             (1.0, "darkred")
         ]
