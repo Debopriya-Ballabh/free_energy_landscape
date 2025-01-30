@@ -53,7 +53,7 @@ class FreeEnergyLandscape:
             'purple', 
             'darkorange', 
             'green', 
-            'lightgrey', 
+            'gold', 
             'red',
             'magenta',
             'mediumorchid',
